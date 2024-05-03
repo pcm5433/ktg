@@ -1,0 +1,20 @@
+:root{
+    --main-blue-color: #007aff;
+    --main-dim-font: #111;
+    --main-dark-font: #333;
+    --main-gray-font: #666;
+    --main-light-font: #999;
+    /* background-color: var(--main-blue-color);
+       => 이런 식으로 사용 */
+}
+
+.w1440{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.w100{
+    width: 100%;
+}
+.flex{
+    display: flex;
+}
