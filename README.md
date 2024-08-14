@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <br />
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Clone Web </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 롯데렌터카 비즈카 홈페이지를 클론하여 제작한 페이지입니다.<br /><b>swiper</b> 라이브러리를 이용하여 슬라이드를 구현하였습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 롯데렌터카 비즈카 홈페이지를 클론하여 제작한 페이지입니다.</div> 
     </div>
     <br />
     <div style="text-align: left;">
